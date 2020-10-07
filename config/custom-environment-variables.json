@@ -1,0 +1,13 @@
+{
+    "app": {
+        "host": "HOST",
+        "port": "PORT"
+    },
+    "author": {
+        "dev": "AUTHOR"
+    },
+    "jwt": {
+        "secret": "JWT_SECRET_LIFE_TOKEN",
+        "refreshtoken": "JWT_SECRET_REFRESH_TOKEN"
+    }
+}
